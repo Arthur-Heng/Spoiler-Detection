@@ -4,9 +4,9 @@ This is a demo of the paper
 
 [**Detecting Spoilers in Movie Reviews with External Movie Knowledge and User Networkss**][paper].
 
-[Heng Wang](https://arthur-heng.github.io)
-[Wenqian Zhang](https://Wenqian-Zhang.github.io)
-[Yuyang Bau](https://leopoldwhite.github.io)
+[Heng Wang](https://arthur-heng.github.io),
+[Wenqian Zhang](https://Wenqian-Zhang.github.io),
+[Yuyang Bau](https://leopoldwhite.github.io),
 [Zhaoxuan Tan](https://zhaoxuan.info/), 
 [Shangbin Feng](https://bunsenfeng.github.io/), 
 [Qinghua Zheng](https://gr.xjtu.edu.cn/web/qhzheng), 
